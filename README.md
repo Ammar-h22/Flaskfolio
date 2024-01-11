@@ -19,7 +19,7 @@ Before you begin, ensure that you have the following software installed on your 
 2. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-portfolio.git
+    git clone https://github.com/Ammar-h22/Flaskfolio.git
     ```
 
 ### Navigate to the Project Directory
